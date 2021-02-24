@@ -1,0 +1,141 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+h3{
+    color: darkred;
+    font-size: 21px;
+}
+p{
+    color: blue;
+    font-size: 23px;
+    margin-left: 22px;
+}
+div{
+    font-size: 18px;
+
+    position: relative;
+}
+input:valid{
+    border: 2px solid green;
+}
+#name{
+    margin-top: 16px;
+    font-size: 20px;
+    padding: 5px;
+    margin-bottom: 16px;
+    position: relative;
+}
+label{
+    margin-left: 16px;
+    padding: -1px;
+    margin: 9px;
+}
+#name{
+    margin-top: 16px;
+    font-size: 20px;
+    padding: 5px;
+    margin-bottom: 16px;
+    border: 2px slid black;
+    border: 2px solid black;
+    border-radius: 16px;
+    margin-left: 19px;
+    position: relative;
+}
+#email{
+    margin-top: 16px;
+    font-size: 20px;
+    padding: 5px;
+    margin-bottom: 16px;
+    border: 2px slid black;
+    border: 2px solid black;
+    border-radius: 16px;
+    margin-left: 19px;
+}
+#place{
+    margin-left: 16px;
+    border: 2px solid balck;
+    border: 2px solid black;
+    border-radius: 20px;
+    font-size: 18px;
+}
+#sex{
+    margin-top: 16px;
+    font-size: 20px;
+    padding: 5px;
+    margin-bottom: 16px;
+    border: 2px slid black;
+    border: 2px solid black;
+    border-radius: 16px;
+    margin-left: 19px;
+    position: relative;
+}
+#age{
+    margin-top: 16px;
+    font-size: 19px;
+    padding: 5px;
+    margin-bottom: 16px;
+    border: 2px slid black;
+    border: 2px solid black;
+    border-radius: 16px;
+    margin-left: 19px;
+    padding: 11px;
+    width: 66px;
+}
+#date{
+    margin-left: 19px;
+    font-size: 25px;
+    border: 2px solid black;
+    padding: 1px;
+    margin-bottom: 11px;
+    border-radius: 15px;
+}
+#num{
+    margin-top: 16px;
+    font-size: 20px;
+    padding: 5px;
+    margin-bottom: 16px;
+    border: 2px slid black;
+    border: 2px solid black;
+    border-radius: 16px;
+    margin-left: 19px;
+}
+#collage{
+    margin-top: 16px;
+    font-size: 20px;
+    padding: 5px;
+    margin-bottom: 16px;
+    border: 2px slid black;
+    border: 2px solid black;
+    border-radius: 16px;
+    margin-left: 19px;
+}
+
+#package{
+    margin-left: 21px;
+    font-weight: bold;
+    display: inline;
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+#like{
+    margin-left: 21px;
+    font-weight: bold;
+    display: inline;
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+.btn{
+    font-size: 24px;
+    margin-left: 18px;
+    margin-top: 20px;
+    border: 2px solid black;
+    border-radius: 11px;
+    background: transparent;
+}
+.btn:hover{
+    background-color: yellow;
+    color:red;
+}
+

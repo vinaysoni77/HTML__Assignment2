@@ -1,0 +1,234 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Raleway:wght@100&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    
+
+}
+html{
+    scroll-behavior: smooth ;
+}
+.navbar{
+    display: flex;
+    padding: 0px;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    cursor: pointer;
+    
+  
+}
+
+.nav-list{
+    display: flex; 
+    width: 69%;
+    
+    align-items: center;
+ list-style: none;
+  
+
+}
+.small{
+    font-size: 22px;
+}
+.big{
+    font-size: 40px;
+}
+.sectiontag{
+        font-size: 32px;
+}
+.subtag{
+    font-size: 26px;
+}
+.btn{
+    padding: 8px 20px;
+    border: 2px solid white;
+    border-radius: 8px;
+    margin: 7px 0px;
+    background: none;
+    color: white;
+    cursor: pointer;
+}
+.btn-sn{
+    padding: 3px 10px;
+    vertical-align:middle;
+
+}
+.nav-list li a{
+    color: rgb(7, 248, 148);
+    padding: 25px;
+    list-style: none;
+    text-decoration: none;
+    
+
+}
+.nav-list li a:hover{
+    color: grey ;
+}
+.navl-ist li{
+    list-style: none;
+ list-style: none;
+    padding: 23px;
+    cursor: pointer;
+   
+
+}
+.logo{
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo img{
+    width: 30%;
+    border: snow;
+    border-radius: 100px;
+}
+.rightnav
+{
+    width: 50%;
+    padding: 0px 23px;
+    text-align: right;
+    align-items: center;
+
+}
+#search{
+    font-size: 10px;
+    padding: 10px;
+   border: 2px solid gray;
+   border-radius: 7px; 
+}
+.btn btn-sn{
+    padding-top: 3px;
+}
+.background{
+    background: rgba(0, 0, 0, 0.6) url('pic.jpg');
+    background-size: cover;;
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+    height: 58px;
+}
+.first{
+    height: 100vh;
+}
+.box-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: silver;
+    margin: auto;
+    max-width: 50%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 74%;
+}
+.first-half{
+    
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    flex-direction: column;
+    padding: 78px;
+
+}
+.second-half{
+    width: 30%;
+}
+.second-half img{
+    width: 295%;
+    border-radius: 32px;
+    border: 2px solid black;
+}
+.secright{
+    height: 476px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    max-width: 90%;
+    font-family: 'Dancing Script', cursive;
+  
+}
+.rrleft{
+    height: 476px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    max-width: 90%;
+    flex-direction: row-reverse;
+    font-family: 'Dancing Script', cursive;
+    font-style: unset;
+  
+}
+.new{
+    padding: 50px
+}
+.thumb img{
+   
+    width: 460px;
+    border: 2px solid black;
+    border-radius: 31px
+}
+.contact{
+    background-color: rgb(134 127 118);
+    height: 550px
+}
+.edi
+{
+    text-align: center;
+    padding: 11px
+    
+}
+.edi input{
+    margin: 12px 195px;
+    width: 53%;
+    font-size: 18px;
+    padding: 6px;
+    border-radius: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.cent{     
+    text-align: center;
+}
+.btnrrr{
+    color: black;
+    border: 2px solid black;
+    border-radius: 2px;
+    color: blue;
+    background-color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.area{
+    margin: 21px 53px;
+    /* text-align: center; */
+    padding: 4px;
+    /* justify-content: center; */
+    width: 86%;
+    font-size: 14px;
+    border: 2px solid black;
+    border-radius: 17px;
+}
+.text-footer{
+    color: antiquewhite;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+    font-color: red;
+    background-color: #231d1d;
+}
+
+.btnrrr:hover{
+background-color:red;
+}
+.btnrrr{
+    padding: 8px 20px;
+    border: 2px solid white;
+    border-radius: 8px;
+    margin: 7px 0px;
+    background: none;
+    color: white;
+    cursor: pointer;
+}
